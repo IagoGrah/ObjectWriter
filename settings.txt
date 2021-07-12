@@ -1,0 +1,16 @@
+// Path to the file containing the words
+wordsFilePath="words.txt"
+
+// Format to generate text files, {0} is the date and {1} is the given word
+// Do not use invalid file name characters such as '/'
+fileNameFormat="{0} - {1}"
+
+// Format to show date in file name
+// Do not use invalid file name characters such as '/'
+dateFormat="dd-MM-yy"
+
+// Path where new text files are generated
+filePath="Journal/"
+
+// Amount of seconds in the timer
+timerSeconds="600"

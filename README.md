@@ -6,7 +6,7 @@ This is a very small project I made to save myself some time while doing Object 
 
 All this program does is generate a word (from a given .txt file), and give you a timer.
 
-Upon running, using the ObjectWriter.bat file, it immediately opens up Notepad with the word as a title and starts the timer.
+Upon running, it immediately opens up Notepad with the word as a title and starts the timer.
 
 Your files are saved in a folder, so you can look back at what you've written and see your own progress.
 

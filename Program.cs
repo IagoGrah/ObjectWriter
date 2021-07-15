@@ -33,7 +33,7 @@ namespace ObjectWriter
 
             Console.WriteLine("Time's up!");
             Thread.Sleep(3000);
-            Console.ReadKey();
+            Environment.Exit(0);
         }
 
         static string GenerateWord()
